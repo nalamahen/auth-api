@@ -23,6 +23,7 @@ pass user details in the body as json:
     }
 
 Note:
+MongoDB used to store user details.
 Used Json Web Token to secure route.
 Done only a unit test for checking the web token.
 Could have done integration test for api routes by using test framework 'supertest' with test database.
